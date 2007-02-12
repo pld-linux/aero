@@ -1,5 +1,5 @@
 Summary:	Simulation program based on rigid body systems
-Summary(pl):	Program do symulacji opartych na uk³adach bry³y sztywnej
+Summary(pl.UTF-8):   Program do symulacji opartych na ukÅ‚adach bryÅ‚y sztywnej
 Name:		aero
 Version:	1.7.0
 Release:	0.1
@@ -16,11 +16,11 @@ built-in 3D editor you can create a virtual scene consisting of
 spheres, boxes (cuboids), cylinders and plains. These objects may be
 connected with links like spring, damper, rod and joint.
 
-%description -l pl
-AERO to program do symulacji opartych na uk³adach bry³y sztywnej. Przy
-u¿yciu wbudowanego edytora 3D mo¿na tworzyæ sceny wirtualne sk³adaj±ce
-siê ze sfer, prostopad³o¶cianów, cylindrów i p³aszczyzn. Obiekty te
-mo¿na ³±czyæ elementami takimi jak sprê¿yny, t³umiki, prêty i z³±cza.
+%description -l pl.UTF-8
+AERO to program do symulacji opartych na ukÅ‚adach bryÅ‚y sztywnej. Przy
+uÅ¼yciu wbudowanego edytora 3D moÅ¼na tworzyÄ‡ sceny wirtualne skÅ‚adajÄ…ce
+siÄ™ ze sfer, prostopadÅ‚oÅ›cianÃ³w, cylindrÃ³w i pÅ‚aszczyzn. Obiekty te
+moÅ¼na Å‚Ä…czyÄ‡ elementami takimi jak sprÄ™Å¼yny, tÅ‚umiki, prÄ™ty i zÅ‚Ä…cza.
 
 %prep
 %setup -q -n %{name}
