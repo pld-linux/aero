@@ -1,5 +1,5 @@
 Summary:	Simulation program based on rigid body systems
-Summary(pl.UTF-8):   Program do symulacji opartych na układach bryły sztywnej
+Summary(pl.UTF-8):	Program do symulacji opartych na układach bryły sztywnej
 Name:		aero
 Version:	1.7.0
 Release:	0.1
